@@ -1,0 +1,7 @@
+{
+  "name": "Maritim Cerdas - BMKG Educational Portal",
+  "version": "1.0.0",
+  "description": "Interactive maritime education portal about meteorology, climatology, and geophysics for BMKG",
+  "private": true,
+  "license": "MIT"
+}
